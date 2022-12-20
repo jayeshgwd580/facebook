@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/facebook/static/css/main.719d3e28.css",
+    "main.js": "/facebook/static/js/main.a8f1e1f0.js",
+    "static/js/787.4559d2cf.chunk.js": "/facebook/static/js/787.4559d2cf.chunk.js",
+    "static/media/thumbs-up-solid.svg": "/facebook/static/media/thumbs-up-solid.70de14ec36803cd7a90ce611f05d5899.svg",
+    "static/media/user-group-solid.svg": "/facebook/static/media/user-group-solid.9f6240ff9c1165188f0c7a53b1ec473c.svg",
+    "static/media/house-chimney-solid.svg": "/facebook/static/media/house-chimney-solid.69c03bfc373e2bfcedb3d53ccea2c6b0.svg",
+    "index.html": "/facebook/index.html",
+    "static/media/facebook-messenger.svg": "/facebook/static/media/facebook-messenger.e4f3bace916a5b8c8f1a86a6b7066504.svg",
+    "static/media/bell-solid.svg": "/facebook/static/media/bell-solid.c0075148f3ea89cd2080d6772fa886d9.svg",
+    "static/media/share-solid.svg": "/facebook/static/media/share-solid.f0c99fb035068d470203c2080c36f33c.svg",
+    "static/media/message-regular.svg": "/facebook/static/media/message-regular.4978549f5356d1089051661f39e3def6.svg",
+    "static/media/heart-solid.svg": "/facebook/static/media/heart-solid.d7c94efcc368b60f1b616ebb888de958.svg",
+    "static/media/circle-plus-solid.svg": "/facebook/static/media/circle-plus-solid.37df0e03230d287422924b77b45bd3be.svg",
+    "static/media/ellipsis-solid.svg": "/facebook/static/media/ellipsis-solid.185b4600e15eadaebf3d0b975aee3c60.svg",
+    "static/media/f-logo.svg": "/facebook/static/media/f-logo.8e47c916446c95cbcf1d5b933be6d9d1.svg",
+    "static/media/caret-down-solid.svg": "/facebook/static/media/caret-down-solid.ec4254aa89038b9ea5df12fce3a4900d.svg",
+    "main.719d3e28.css.map": "/facebook/static/css/main.719d3e28.css.map",
+    "main.a8f1e1f0.js.map": "/facebook/static/js/main.a8f1e1f0.js.map",
+    "787.4559d2cf.chunk.js.map": "/facebook/static/js/787.4559d2cf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.719d3e28.css",
+    "static/js/main.a8f1e1f0.js"
+  ]
+}
